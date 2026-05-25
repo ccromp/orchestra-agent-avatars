@@ -2,7 +2,7 @@
 
 A small, consistent set of role-based avatars for multi-agent systems — so each agent in your fleet has a recognizable face in chat UIs, dashboards, webhooks, and logs.
 
-27 PNGs, 512×512, transparent backgrounds where appropriate. Each avatar represents a common role you'd assign to an agent: `ceo`, `sdr`, `qa-engineer`, `graphic-designer`, `researcher`, and so on. A `default.png` is included as a fallback for unknown roles.
+28 PNGs, 512×512, transparent backgrounds where appropriate. Each avatar represents a common role you'd assign to an agent: `ceo`, `chief`, `sdr`, `qa-engineer`, `graphic-designer`, `researcher`, and so on. A `default.png` is included as a fallback for unknown roles.
 
 ## Using these avatars
 
@@ -43,43 +43,43 @@ Standard `git clone` or grab individual PNGs from the `avatars/` directory. No b
     <td align="center"><img src="avatars/admin.png" width="128"><br><sub><code>admin</code></sub></td>
     <td align="center"><img src="avatars/app-developer.png" width="128"><br><sub><code>app-developer</code></sub></td>
     <td align="center"><img src="avatars/ceo.png" width="128"><br><sub><code>ceo</code></sub></td>
-    <td align="center"><img src="avatars/cms-engineer.png" width="128"><br><sub><code>cms-engineer</code></sub></td>
+    <td align="center"><img src="avatars/chief.png" width="128"><br><sub><code>chief</code></sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="avatars/cms-engineer.png" width="128"><br><sub><code>cms-engineer</code></sub></td>
     <td align="center"><img src="avatars/compliance-officer.png" width="128"><br><sub><code>compliance-officer</code></sub></td>
     <td align="center"><img src="avatars/content-publisher.png" width="128"><br><sub><code>content-publisher</code></sub></td>
     <td align="center"><img src="avatars/content-strategist.png" width="128"><br><sub><code>content-strategist</code></sub></td>
-    <td align="center"><img src="avatars/crm-admin.png" width="128"><br><sub><code>crm-admin</code></sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="avatars/crm-admin.png" width="128"><br><sub><code>crm-admin</code></sub></td>
     <td align="center"><img src="avatars/default.png" width="128"><br><sub><code>default</code></sub></td>
     <td align="center"><img src="avatars/director-of-marketing.png" width="128"><br><sub><code>director-of-marketing</code></sub></td>
     <td align="center"><img src="avatars/google-cloud-admin.png" width="128"><br><sub><code>google-cloud-admin</code></sub></td>
-    <td align="center"><img src="avatars/graphic-designer.png" width="128"><br><sub><code>graphic-designer</code></sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="avatars/graphic-designer.png" width="128"><br><sub><code>graphic-designer</code></sub></td>
     <td align="center"><img src="avatars/head-of-growth.png" width="128"><br><sub><code>head-of-growth</code></sub></td>
     <td align="center"><img src="avatars/life.png" width="128"><br><sub><code>life</code></sub></td>
     <td align="center"><img src="avatars/marketcore-health.png" width="128"><br><sub><code>marketcore-health</code></sub></td>
-    <td align="center"><img src="avatars/marketcore-launch.png" width="128"><br><sub><code>marketcore-launch</code></sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="avatars/marketcore-launch.png" width="128"><br><sub><code>marketcore-launch</code></sub></td>
     <td align="center"><img src="avatars/marketing-developer.png" width="128"><br><sub><code>marketing-developer</code></sub></td>
     <td align="center"><img src="avatars/mcp-server-engineer.png" width="128"><br><sub><code>mcp-server-engineer</code></sub></td>
     <td align="center"><img src="avatars/ops.png" width="128"><br><sub><code>ops</code></sub></td>
-    <td align="center"><img src="avatars/prospect-researcher.png" width="128"><br><sub><code>prospect-researcher</code></sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="avatars/prospect-researcher.png" width="128"><br><sub><code>prospect-researcher</code></sub></td>
     <td align="center"><img src="avatars/qa-engineer.png" width="128"><br><sub><code>qa-engineer</code></sub></td>
     <td align="center"><img src="avatars/reddit-campaign-manager.png" width="128"><br><sub><code>reddit-campaign-manager</code></sub></td>
     <td align="center"><img src="avatars/researcher.png" width="128"><br><sub><code>researcher</code></sub></td>
-    <td align="center"><img src="avatars/sales-enablement.png" width="128"><br><sub><code>sales-enablement</code></sub></td>
   </tr>
   <tr>
+    <td align="center"><img src="avatars/sales-enablement.png" width="128"><br><sub><code>sales-enablement</code></sub></td>
     <td align="center"><img src="avatars/sdr.png" width="128"><br><sub><code>sdr</code></sub></td>
     <td align="center"><img src="avatars/seo-geo-specialist.png" width="128"><br><sub><code>seo-geo-specialist</code></sub></td>
     <td align="center"><img src="avatars/video-researcher.png" width="128"><br><sub><code>video-researcher</code></sub></td>
-    <td></td>
   </tr>
 </table>
 
