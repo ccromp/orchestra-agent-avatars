@@ -96,8 +96,8 @@ Free to use in personal and commercial projects. Attribution appreciated but not
 
 ## About Orchestra (the system that uses these)
 
-These avatars were created for **Orchestra**, a Discord-first multi-agent orchestration runtime I built and run personally. Orchestra spins up Claude/Codex/Gemini coding agents in tmux panes, each bound to a Discord thread, and lets them collaborate on long-running work — shipping product changes, monitoring analytics, drafting outreach, running research, and so on. Each agent has a role, a system prompt, a tool allowlist, and a face — these avatars.
+These avatars were created for **Orchestra**, a multi-agent orchestration system I built and run personally. It lets coding agents collaborate on long-running work (shipping product changes, monitoring analytics, drafting outreach, running research) and each agent has a role, a system prompt, a tool allowlist, and a face: these avatars.
 
-It's a personal project, not productized, but it's the harness that runs the day-to-day for my own work and for [Marcora](https://marcora.ai), the product I'm building.
+It's a personal project, not productized, but it's the harness that runs the day-to-day for my own work and for [Marcora](https://marcora.ai), the product I'm building. The supervision practices I've found work best in it are published as [agent-rigor](https://github.com/ccromp/agent-rigor), a set of portable skills for planning, reviewing, testing and verifying agent work.
 
-— [Chris Crompton](https://github.com/ccromp)
+[Chris Crompton](https://github.com/ccromp)
